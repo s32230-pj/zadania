@@ -1,0 +1,5 @@
+﻿  3.3.cpp
+C:\Users\gamin\source\3.3\3.3\3.3.cpp(21,29): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\gamin\source\3.3\3.3\3.3.cpp(24,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\gamin\source\3.3\3.3\3.3.cpp(25,16): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  3.3.vcxproj -> C:\Users\gamin\source\3.3\x64\Debug\3.3.exe
